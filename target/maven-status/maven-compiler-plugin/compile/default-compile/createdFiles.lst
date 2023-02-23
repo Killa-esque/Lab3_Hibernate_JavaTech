@@ -1,0 +1,8 @@
+DAO\PhoneDAO.class
+DAO\PhoneDAOInterface.class
+Pojo\Manufacture.class
+Program.class
+Pojo\Phone.class
+DAO\ManufactureDAO.class
+DAO\ManufactureDAOInterface.class
+utils\HibernateUtils.class
